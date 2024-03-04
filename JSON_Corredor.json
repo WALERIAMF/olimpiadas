@@ -1,0 +1,9 @@
+
+{
+    "nome": "Jean Pierre Polnareff",
+    "velocidade_media":  {
+        "velocidade": 9.85,
+        "unidade_de_medida": "km/h"
+    },
+    "descrição": "Um corredor de primeira, eleito para levar a tocha olimpica até a pira passando pelos principais pontos da França"
+}
