@@ -1,6 +1,55 @@
 
 [
-
+    {
+      "cidade": "Marseille",
+      "distancia_para_prox": 186.5,
+      "fator_desidratação": "Alto"
+    },
+    {
+      "cidade": "Montpellier",
+      "distancia_para_prox": 434.7,
+      "fator_desidratação": "Alto"
+    },
+    {
+      "cidade": "Pau",
+      "distancia_para_prox": 216.1,
+      "fator_desidratação": "Baixo"
+    },
+    {
+      "cidade": "Bordeaux",
+      "distancia_para_prox": 605.8,
+      "fator_desidratação": "Alto"
+    },
+    {
+      "cidade": "Châteauroux",
+      "distancia_para_prox": 1139,
+      "fator_desidratação": "Normal"
+    },
+    {
+      "cidade": "Brest",
+      "distancia_para_prox": 652.5,
+      "fator_desidratação": "Baixo"
+    },
+    {
+      "cidade": "Valence",
+      "distancia_para_prox": 304.3,
+      "fator_desidratação": "Baixo"
+    },
+    {
+      "cidade": "Chamonix",
+      "distancia_para_prox": 727,
+      "fator_desidratação": "Alto"
+    },
+    {
+      "cidade": "Strasbourg",
+      "distancia_para_prox": 447.2,
+      "fator_desidratação": "Normal"
+    },
+    {
+      "cidade": "Saint-Quentin",
+      "distancia_para_prox": 169.3,
+      "fator_desidratação": "Normal"
+    },
     {
       "cidade": "Paris",
       "distancia_para_prox": 0,
