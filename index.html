@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Olimpíadas</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="torch">
+                <img id="torchGif" src="https://media1.tenor.com/m/C50oHaOufTwAAAAC/hoaphuongdo-torch.gif" alt="Torch">
+                <h2 id="runnerName"></h2>
+                <p id="runnerDescription"></p>
+                <button id="runButton" onclick="changeCities()">Onde vai correr hoje?</button>
+                <p id="parisMessage" style="display:none;"></p>
+                <button id="refreshButton" style="display: none;" onclick="refreshPage()">Voltar</button>
+                <i class="bi bi-backspace"></i>
+
+            </div>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>
